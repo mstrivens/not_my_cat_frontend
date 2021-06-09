@@ -61,7 +61,7 @@ I would like to be able to keep track of my wins and win prizes
 
 ### Development Team
 
-<a href="https://github.com/mstrivens"></br>Max Strivens</a>,<a href="https://github.com/loushark"></br>Lou Reade</a>,<a href="https://github.com/StuBehan"></br>Stu Behan</a>,<a href="https://github.com/dmgreaves"></br>David Greaves</a>  
+<p><a href="https://github.com/mstrivens"></br>Max Strivens</a>, <a href="https://github.com/loushark"></br>Lou Reade</a>, <a href="https://github.com/StuBehan"></br>Stu Behan</a>, <a href="https://github.com/dmgreaves"></br>David Greaves</a><p>  
 
 ### Further Resources
  
