@@ -22,41 +22,41 @@ In order to ai the project design and development process we modelled as follows
 
 #### User Stories
 
-As a cat lover
-So I can start saving cats
+As a cat lover  
+So I can start saving cats  
 I would like to create an account
 
-As a cat lover
-So I can save cats on any device
+As a cat lover  
+So I can save cats on any device  
 I would like to be able to log in
 
-As a cat lover
-So I can protect my information
+As a cat lover  
+So I can protect my information  
 I would like to be able to log out
 
-As a cat lover
-So I can keep track of the cool cats i spot in my area
+As a cat lover  
+So I can keep track of the cool cats i spot in my area  
 I would like to be able to create a cat
-
-As a cat lover
-So I can keep track of the cool cats others spot in my area
+ 
+As a cat lover  
+So I can keep track of the cool cats others spot in my area  
 I would like to be able to view all cats
 
-As a cat lover
-So I know exactly where to find the cool cats
+As a cat lover  
+So I know exactly where to find the cool cats  
 I would like to be able to view all cats on a map
 
-As a cat lover
-So I can say if i"ve spotted someone else's cat
+As a cat lover  
+So I can say if i"ve spotted someone else's cat  
 I would like to click a spotted button
 
-As a cat lover
-So I can see who has the best cats
+As a cat lover  
+So I can see who has the best cats  
 I would like to be able to play a game of top cats
 
 
-As a cat lover
-So I can keep track of the biggest winner cats
+As a cat lover  
+So I can keep track of the biggest winner cats  
 I would like to be able to keep track of my wins and win prizes
 
 ### Development Team
