@@ -1,5 +1,13 @@
 # Not My Cat  ✧/ᐠ-ꞈ-ᐟ\
 
+```
+npm init
+
+npm start
+```
+
+
+
  
 https://www.npmjs.com/package/@wojtekmaj/enzyme-adapter-react-17
 
