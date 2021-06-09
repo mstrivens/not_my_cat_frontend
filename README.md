@@ -1,5 +1,9 @@
 # Not My Cat  ✧/ᐠ-ꞈ-ᐟ\
 
+### How to Run
+
+Fork this Repo and clone
+
 ```
 npm init
 
